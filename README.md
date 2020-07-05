@@ -20,7 +20,7 @@ O app **calculadora** foi criado dentro do curso [Desenvolvimento Web Completo -
 
 
 ## 💡 Conhecimentos aplicados
-**JavaScript** nível iniciante
+**JavaScript** intermediário
 - Eventos
 - Manipulaçao do DOM
 
