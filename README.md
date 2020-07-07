@@ -1,8 +1,6 @@
 ## Demo
 
-<h1>
-    <img src="apresentacao.gif">
-</h1>
+<img src="apresentacao.gif">
 
 ## Índice
 - [Sobre](#-sobre)
