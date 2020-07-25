@@ -20,7 +20,7 @@ O app **calculadora** foi criado dentro do curso [Desenvolvimento Web Completo -
 ## 💡 Conhecimentos aplicados
 **JavaScript** nível inciante
 - Eventos
-- Manipulaçao do DOM
+- Manipulação do DOM
 
 
 
@@ -42,4 +42,4 @@ O app **calculadora** foi criado dentro do curso [Desenvolvimento Web Completo -
 
 - Aos professores do curso [Desenvolvimento Web Completo - 2020](https://www.udemy.com/course/web-completo/)
 
-- À Daniele Leão Evangelista pelo ótimo vídeo ["como criar um README"](https://www.youtube.com/watch?v=Gcb60rPbnKA&list=LL55cCksWKKyAoCbO5G5iqHQ&index=1)
+- [@danileao](https://github.com/danileao) pelo ótimo vídeo ["como criar um README"](https://www.youtube.com/watch?v=Gcb60rPbnKA&list=LL55cCksWKKyAoCbO5G5iqHQ&index=1)
